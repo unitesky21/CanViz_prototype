@@ -1,0 +1,11 @@
+{
+  "backbone": "resnet50",
+  "embedding_dim": 128,
+  "margin": 1.5,
+  "img_size": 224,
+  "best_threshold": 1.6861603260040283,
+  "roc_auc": 1.0,
+  "pair_accuracy": 99.47,
+  "device_used": "cuda",
+  "epochs_trained": 25
+}
